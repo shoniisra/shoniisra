@@ -1,72 +1,94 @@
 <h1 align="center">Hi 👋, I'm Johnny Israel Villacis (@shoniisra)</h1>
-<h3 align="center">PMP-certified Technical Project Leader | Scrum Expert | Driving high-impact tech 🚀</h3>
+<h3 align="center">PMP-certified Technical Project Manager | Scrum Expert | Fintech & Scalable Systems</h3>
 
 <p align="center">
   <a href="https://www.shoniisra.tech/">🌐 Portfolio</a> •
   <a href="https://linkedin.com/in/shoniisra">LinkedIn</a> •
-  <a href="mailto:villajohnny@gmail.com">Email</a>
+  <a href="mailto:artecodigoycafe@gmail.com">artecodigoycafe@gmail.com</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-PMP-certified project leader with 8+ years of experience delivering high-impact technology solutions in the financial sector and beyond.
+Technical Project Manager with 8+ years of experience delivering high-impact technology solutions, primarily in the **financial sector**.
 
-I specialize in:
-- Aligning **business goals ↔ engineering execution**
-- Leading **high-performing teams (130+ devs)**
-- Driving **productivity, quality, and continuous improvement**
-- Bridging **technical depth + strategic leadership**
+I specialize in bridging **business strategy and engineering execution**, leading cross-functional teams, and ensuring consistent delivery of scalable, high-quality products.
+
+- PMP, CSM, CSPO, CSD certified  
+- Strong technical background (Full Stack)  
+- Proven experience in large-scale banking environments  
 
 ---
 
-## 🧠 Key Impact
+## 🎯 Key Impact
 
 - 🚀 Reduced production incidents by **40%** in banking platform migration  
-- 📈 Improved code quality by **30%** across 130+ developers  
-- 🤖 Driving **AI-powered development workflows** (vibe coding)  
-- 🏗️ Leading modernization to **scalable architectures (microservices, hexagonal)**  
+- 📈 Improved code quality by **30%** across **130+ developers**  
+- 🏗️ Led modernization of legacy systems into scalable architectures  
+- 🤖 Driving adoption of **AI-powered development workflows**  
+
+---
+
+## 🧩 Featured Work
+
+### 🏦 Banking Platform Migration (Certificates Module)
+🔗 https://www.pichincha.com/detalle-producto/personas-cuentas-servicios-referencias-bancarias  
+- Led migration from React to Angular in a critical banking module  
+- Reduced technical incidents by **40%**  
+- Improved scalability and user experience for thousands of users  
+
+---
+
+### 🏗️ Legacy System Modernization (Fintech)
+🔗 https://devsu.com/clients/latin-american-bank  
+- Led migration of legacy banking systems to modern architectures  
+- Implemented scalable solutions using microservices and hexagonal architecture  
+- Improved maintainability and long-term system evolution  
+
+---
+
+### 👥 Engineering Chapter Leadership
+- Co-led a chapter of **130+ developers**  
+- Defined engineering standards and best practices  
+- Achieved **30% improvement in code quality** across teams  
+
+---
+
+## 🛠️ Core Skills
+
+**Project Management:** PMP, Scrum, Agile Delivery, Stakeholder Management  
+**Tech Stack:** Angular, Java, Node.js  
+**Architecture:** Microservices, Hexagonal, Scalable Systems  
+**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
+
+---
+
+## 🎯 What Makes Me Different
+
+- Combination of **PMP + strong technical background**  
+- Experience leading **large engineering teams (130+)**  
+- Proven results in **fintech and high-demand environments**  
+- Ability to align **business goals with technical execution**  
 
 ---
 
 ## 🔭 Current Focus
 
-- Building scalable systems & modern architectures  
+- Scaling engineering teams and delivery processes  
 - Applying AI to software development workflows  
-- Growing as a **Technical Project Manager / Engineering Leader**  
+- Leading high-impact projects in fintech and enterprise environments  
 
 ---
 
-## 💬 Ask Me About
+## 📬 Let’s Work Together
 
-`Project Management` • `Scrum` • `Angular + Java` • `System Design` • `AI in Development`
+Open to opportunities as:
+- Technical Project Manager  
+- Engineering Manager  
+- Tech Lead  
 
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/shoniisra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://stackoverflow.com/users/11861493" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/shoniisra" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:** Angular, React, TypeScript  
-**Backend:** Node.js, Java (Spring)  
-**Cloud & DevOps:** AWS, Azure, Docker, Kubernetes, CI/CD  
-**Data:** PostgreSQL, MongoDB  
-**Architecture:** Microservices, Serverless, Hexagonal  
+📩 Contact: artecodigoycafe@gmail.com  
 
 ---
 
@@ -81,14 +103,4 @@ I specialize in:
 
 ## ⚡ Fun Fact
 
-I enjoy meeting people, traveling, and experiences like Couchsurfing 🌍
-
----
-
-## ☕ Support
-
-<p>
-<a href="https://www.buymeacoffee.com/shoniisra">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" />
-</a>
-</p>
+I enjoy meeting people, sharing knowledge, and building meaningful connections 🌍
