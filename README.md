@@ -22,6 +22,11 @@
 ⚡ I drive **scalable systems, productivity & continuous improvement**
 
 ---
+## 🧠 Talentview Insights
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 🧩 Competencias
 
@@ -36,7 +41,8 @@
 | 🔍 Pensamiento crítico   | ███░░░░░░░ 30% |
 | 💪 Resiliencia           | ███░░░░░░░ 30% |
 
----
+    </td>
+    <td valign="top" width="50%">
 
 ### 💎 Valores clave
 
@@ -51,6 +57,9 @@
 | 🤝 Lealtad        | ⭐⭐⭐⭐☆ |
 | ⚖️ Integridad     | ⭐⭐⭐☆☆ |
 
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 Key Impact
