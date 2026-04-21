@@ -23,6 +23,36 @@
 
 ---
 
+### 🧩 Competencias
+
+| Competencia              | Nivel |
+|--------------------------|--------|
+| 🧭 Liderazgo             | ██████████ 90% |
+| 🤝 Trabajo en equipo     | █████████░ 80% |
+| 🧠 Toma de decisiones    | ███████░░░ 70% |
+| 📊 Capacidad analítica   | ██████░░░░ 60% |
+| 🔄 Adaptación            | █████░░░░░ 50% |
+| ⚖️ Resolución conflictos | ████░░░░░░ 40% |
+| 🔍 Pensamiento crítico   | ███░░░░░░░ 30% |
+| 💪 Resiliencia           | ███░░░░░░░ 30% |
+
+---
+
+### 💎 Valores clave
+
+| Valor            | Nivel |
+|------------------|--------|
+| 🙌 Humildad       | ⭐⭐⭐⭐⭐ |
+| 🛡️ Responsabilidad| ⭐⭐⭐⭐⭐ |
+| 🤝 Compromiso     | ⭐⭐⭐⭐☆ |
+| 🧭 Respeto        | ⭐⭐⭐⭐☆ |
+| 🔍 Honestidad     | ⭐⭐⭐⭐☆ |
+| 🤲 Solidaridad    | ⭐⭐⭐⭐☆ |
+| 🤝 Lealtad        | ⭐⭐⭐⭐☆ |
+| ⚖️ Integridad     | ⭐⭐⭐☆☆ |
+
+---
+
 ## 🏆 Key Impact
 
 - 🚀 **-40% production incidents** in banking platform migration  
