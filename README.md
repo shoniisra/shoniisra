@@ -24,42 +24,85 @@
 ---
 ## 🧠 Talentview Insights
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
-
-### 🧩 Competencias
-
-| Competencia              | Nivel |
-|--------------------------|--------|
-| 🧭 Liderazgo             | ██████████ 90% |
-| 🤝 Trabajo en equipo     | █████████░ 80% |
-| 🧠 Toma de decisiones    | ███████░░░ 70% |
-| 📊 Capacidad analítica   | ██████░░░░ 60% |
-| 🔄 Adaptación            | █████░░░░░ 50% |
-| ⚖️ Resolución conflictos | ████░░░░░░ 40% |
-| 🔍 Pensamiento crítico   | ███░░░░░░░ 30% |
-| 💪 Resiliencia           | ███░░░░░░░ 30% |
-
-    </td>
-    <td valign="top" width="50%">
-
-### 💎 Valores clave
-
-| Valor            | Nivel |
-|------------------|--------|
-| 🙌 Humildad       | ⭐⭐⭐⭐⭐ |
-| 🛡️ Responsabilidad| ⭐⭐⭐⭐⭐ |
-| 🤝 Compromiso     | ⭐⭐⭐⭐☆ |
-| 🧭 Respeto        | ⭐⭐⭐⭐☆ |
-| 🔍 Honestidad     | ⭐⭐⭐⭐☆ |
-| 🤲 Solidaridad    | ⭐⭐⭐⭐☆ |
-| 🤝 Lealtad        | ⭐⭐⭐⭐☆ |
-| ⚖️ Integridad     | ⭐⭐⭐☆☆ |
-
-    </td>
+    <th align="left">Category</th>
+    <th align="left">Item</th>
+    <th align="left">Level</th>
   </tr>
+
+  <!-- Competencies -->
+  <tr>
+    <td rowspan="8"><b>🧩 Competencies</b></td>
+    <td>🧭 Leadership</td>
+    <td>██████████ 90%</td>
+  </tr>
+  <tr>
+    <td>🤝 Teamwork</td>
+    <td>█████████░ 80%</td>
+  </tr>
+  <tr>
+    <td>🧠 Decision Making</td>
+    <td>███████░░░ 70%</td>
+  </tr>
+  <tr>
+    <td>📊 Analytical Thinking</td>
+    <td>██████░░░░ 60%</td>
+  </tr>
+  <tr>
+    <td>🔄 Adaptability</td>
+    <td>█████░░░░░ 50%</td>
+  </tr>
+  <tr>
+    <td>⚖️ Conflict Resolution</td>
+    <td>████░░░░░░ 40%</td>
+  </tr>
+  <tr>
+    <td>🔍 Critical Thinking</td>
+    <td>███░░░░░░░ 30%</td>
+  </tr>
+  <tr>
+    <td>💪 Resilience</td>
+    <td>███░░░░░░░ 30%</td>
+  </tr>
+
+  <!-- Values -->
+  <tr>
+    <td rowspan="8"><b>💎 Core Values</b></td>
+    <td>🙌 Humility</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>🛡️ Responsibility</td>
+    <td>⭐⭐⭐⭐⭐</td>
+  </tr>
+  <tr>
+    <td>🤝 Commitment</td>
+    <td>⭐⭐⭐⭐☆</td>
+  </tr>
+  <tr>
+    <td>🧭 Respect</td>
+    <td>⭐⭐⭐⭐☆</td>
+  </tr>
+  <tr>
+    <td>🔍 Honesty</td>
+    <td>⭐⭐⭐⭐☆</td>
+  </tr>
+  <tr>
+    <td>🤲 Solidarity</td>
+    <td>⭐⭐⭐⭐☆</td>
+  </tr>
+  <tr>
+    <td>🤝 Loyalty</td>
+    <td>⭐⭐⭐⭐☆</td>
+  </tr>
+  <tr>
+    <td>⚖️ Integrity</td>
+    <td>⭐⭐⭐☆☆</td>
+  </tr>
+
 </table>
+
 ---
 
 ## 🏆 Key Impact
